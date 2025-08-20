@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @KavyaMark
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning JAVA, brushing up on python, C, C++ and Visual Basic
-- 💞️ I’m looking to collaborate on developing beautiful and amazing sites and games
-- 📫 Reach me here! markavya_p@outlook.com
+- 👋 Hi, I’m Kavya (@KavyaMark)  
+- 👀 I’m passionate about **Data Science, Machine Learning, Data Analysis, Data Cleaning, Python, and Aerospace Engineering**  
+- 🌱 Currently working on Data Science projects and continuously learning new skills  
+- 🎓 Completed a **Professional Development Certificate in Data Science and Machine Learning** from McGill University  
+- 💞️ Excited to collaborate on building **ML models**, and working on **Data Science / Analysis / Cleaning projects**  
+- 📫 Reach me at **markandekavyashree@gmail.com**  
 
 <!---
 KavyaMark/KavyaMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
